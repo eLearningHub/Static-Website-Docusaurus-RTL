@@ -48,6 +48,7 @@ jobs:
           EOT
       - name: Release to GitHub Pages
         env:
+          GIT_USER: ${GITHUB_ACTOR}
           GIT_PASS: ${{ secrets.GITHUB_TOKEN }}
           CURRENT_BRANCH: documentation
         run: |
