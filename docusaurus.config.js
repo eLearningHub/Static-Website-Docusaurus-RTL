@@ -14,7 +14,7 @@ module.exports = {
   url: 'https://elearninghub.github.io',
   baseUrl: '/Static-Website-Docusaurus/',
   trailingSlash: false,
-  organizationName: 'elearninghub', // Usually your GitHub org/user name.
+  organizationName: 'eLearningHub', // Usually your GitHub org/user name.
   projectName: 'Static-Website-Docusaurus', // Usually your repo name.
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
