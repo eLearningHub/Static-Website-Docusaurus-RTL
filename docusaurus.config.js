@@ -11,8 +11,8 @@ module.exports = {
   },
   title: 'دیتاگیت',
   tagline: 'برای برنامه نویس شدن باید دست به کد شد!',
-  url: 'https://docusaurus-2.netlify.com',
-  baseUrl: '/',
+  url: 'https://elearninghub.github.io',
+  baseUrl: '/Static-Website-Docusaurus',
   trailingSlash: false,
   organizationName: 'massoudmaboudi', // Usually your GitHub org/user name.
   projectName: 'datagit_v2.docusaurus', // Usually your repo name.
