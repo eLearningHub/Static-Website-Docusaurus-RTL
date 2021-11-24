@@ -16,11 +16,11 @@ module.exports = {
   },
   title: 'دیتاگیت',
   tagline: 'برای برنامه نویس شدن باید دست به کد شد!',
-  url: 'https://docusaurus-2.netlify.com',
+  url: 'https://bsamadi.github.io',
   baseUrl: '/',
   trailingSlash: false,
-  organizationName: 'massoudmaboudi', // Usually your GitHub org/user name.
-  projectName: 'datagit_v2.docusaurus', // Usually your repo name.
+  organizationName: 'bsamadi', // Usually your GitHub org/user name.
+  projectName: 'bsamadi.github.io', // Usually your repo name.
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   // onBrokenMarkdownLinks:'ignore',
