@@ -31,7 +31,7 @@ module.exports = {
     image: 'img/metaImage.png',
     hideableSidebar: true,
     gtag: {
-      trackingID: 'G-98VZHCYVG8',
+      trackingID: '',
     },
 
     colorMode: {
