@@ -20,7 +20,7 @@ module.exports = {
   baseUrl: '/',
   trailingSlash: false,
   organizationName: 'bsamadi', // Usually your GitHub org/user name.
-  projectName: 'bsamadi.github.io', // Usually your repo name.
+  projectName: 'bsamadi.gh.io', // Usually your repo name.
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   // onBrokenMarkdownLinks:'ignore',
