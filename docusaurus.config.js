@@ -14,8 +14,8 @@ module.exports = {
       }
     }
   },
-  title: 'دیتاگیت',
-  tagline: 'برای برنامه نویس شدن باید دست به کد شد!',
+  title: 'برنامه‌نویسی برای ماها',
+  tagline: 'خسته نشوید!',
   url: 'https://bsamadi.github.io',
   baseUrl: '/',
   trailingSlash: false,
