@@ -12,10 +12,10 @@ module.exports = {
   title: 'دیتاگیت',
   tagline: 'برای برنامه نویس شدن باید دست به کد شد!',
   url: 'https://elearninghub.github.io',
-  baseUrl: '/Static-Website-Docusaurus/',
+  baseUrl: '/Static-Website-Docusaurus-RTL/',
   trailingSlash: false,
   organizationName: 'eLearningHub', // Usually your GitHub org/user name.
-  projectName: 'Static-Website-Docusaurus', // Usually your repo name.
+  projectName: 'Static-Website-Docusaurus-RTL', // Usually your repo name.
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   // onBrokenMarkdownLinks:'ignore',
