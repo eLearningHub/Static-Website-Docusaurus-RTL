@@ -1,10 +1,10 @@
-name: documentation
+name: publish
 
 on:
   pull_request:
-    branches: [documentation]
+    branches: [development]
   push:
-    branches: [documentation]
+    branches: [development]
 
 jobs:
   checks:
