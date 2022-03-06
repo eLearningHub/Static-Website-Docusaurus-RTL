@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://elearninghub.github.io/Static-Website-Docusaurus-RTL/blog</id>
+    <title>دیتاگیت Blog</title>
+    <updated>2021-01-02T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://elearninghub.github.io/Static-Website-Docusaurus-RTL/blog"/>
+    <subtitle>دیتاگیت Blog</subtitle>
+    <icon>https://elearninghub.github.io/Static-Website-Docusaurus-RTL/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[نصب Homebrew]]></title>
+        <id>homebrew-installation</id>
+        <link href="https://elearninghub.github.io/Static-Website-Docusaurus-RTL/blog/homebrew-installation"/>
+        <updated>2021-01-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[asd]]></summary>
+    </entry>
+</feed>

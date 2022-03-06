@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdatagit=self.webpackChunkdatagit||[]).push([[179],{5860:function(e){e.exports=JSON.parse('{"allTagsPath":"/Static-Website-Docusaurus-RTL/blog/tags","slug":"homebrew","name":"homebrew","count":1,"permalink":"/Static-Website-Docusaurus-RTL/blog/tags/homebrew"}')}}]);
