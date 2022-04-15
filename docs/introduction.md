@@ -62,7 +62,7 @@ import Image from '@theme/IdealImage';
 import img1 from '@site/static/img/general/startingpoint/steve-jobs.png';
 import img2 from '@site/static/img/general/startingpoint/stackoverflow-survey-2020.png';
 
-## **من، کی ام؟**
+## **آشنایی**
 
 اول از همه باید خودم رو معرفی کنم. من، مسعود معبودی هستم و مدت زیادیه که برنامه نویسی میکنم البته به صورت خود آموز. قطعا توی دانشگاه هم چیزای زیادی راجع به برنامه نویسی یاد گرفتم ولی قسمت اصلی کار امروزم رو خودم ساختم و با آموزش های آنلاین، گشتن توی اینترنت و سایت های مختلف و در آخر سوال پرسیدن به اینجا رسیدم. توی دو سال گذشته هم بیشتر وقتم رو صرف برنامه نویسی تکنولوژی های Back-End و Cloud Services کردم. البته توی همین مدت تونستم فوق لیسانس خودم رو توی رشته Data Science بگیرم و توی Image Processing و Deep Learning هم یه سری تجربه به دست بیارم. در حال حاضر هم بیشتر با Amazon Cloud Services و کلا سرویس های کلود سر و کار دارم.
 
