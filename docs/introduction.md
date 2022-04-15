@@ -1,13 +1,13 @@
 ---
 id: introduction
-title: از کجا شروع کنیم؟
+title: آشنایی
 hide_title: false
 hide_table_of_contents: false
-sidebar_label: از کجا شروع کنیم؟
+sidebar_label: آشنایی
 # sidebar_position: 1
-pagination_label: از کجا شروع کنیم؟
+pagination_label: آشنایی
 # custom_edit_url: https://datagit.ir/docs/introduction.md
-description: قبل از شروع کد نویسی، باید برای خودتون هدف تعیین کنید و مشخص کنید که چه مهارت‌هایی میخواید یاد بگیرید. اصلا چرا میخواید برنامه نویسی کنید؟ توی این قسمت سعی میکنیم راجع به این موضوع صحبت کنیم و با هم به یه نتیجه برسیم و بتونیم اولین قدم به سمت برنامه نویسی رو محکم برداریم.
+description: آشنایی با برنامه‌نویسی
 keywords:
   - اموزش برنامه نویسی
   - برنامه نویسی را از کجا شروع کنیم؟
